@@ -1,0 +1,4 @@
+# food_analysis
+This repository is about various food items and their raw materials .
+In this I have tried to give answers to varous questions related to the repository .
+Techs used are python,numoy ,pandas ,seaborn.
